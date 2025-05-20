@@ -2,7 +2,7 @@
 
 This is my first analysis using R, based on the Bellabeat Case Study included in the Google Data Analytics Certificate. This project aims to explore trends in smart device usage and provide insights to support Bellabeat’s marketing strategy.
 
-Alternatively, you can find it on my [Kaggle profile ] (https://www.kaggle.com/code/yuliiazaikovska/bellabeat-case-study-using-r).
+You can find more details it on my [Kaggle profile ] (https://www.kaggle.com/code/yuliiazaikovska/bellabeat-case-study-using-r).
 
 ## Business Task
 Analyze smart device usage trends to help Bellabeat, a high-tech company manufacturing health-focused smart products for women, improve their marketing strategy.
